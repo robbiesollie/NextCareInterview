@@ -47,3 +47,7 @@ END $$
 DELIMITER ;
 
 call DuplicateData();
+
+ALTER TABLE Books ADD CONSTRAINT UNIQUE KEY (AuthorID, Title, Revision);
+
+DELETE FROM Books WHERE AuthorID % 2=1 AND Revision=2;
