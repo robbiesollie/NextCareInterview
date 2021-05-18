@@ -1,8 +1,8 @@
-DROP SCHEMA IF EXISTS NextGen;
+DROP SCHEMA IF EXISTS NextCare;
 
-CREATE SCHEMA NextGen;
+CREATE SCHEMA NextCare;
 
-USE NextGen;
+USE NextCare;
 
 CREATE TABLE Books (AuthorID INT, Title VARCHAR(20), Revision INT);
 
