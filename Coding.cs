@@ -32,7 +32,13 @@ class Program
 
         public String Barcode
         {
-            get { return Regex.Replace(Title, "\\W", "").Substring(0, 3) + "-" + Regex.Replace(Author, "\\W", "").Substring(0, 3) + "-" + Pages.ToString().PadLeft(3, '0') + "-" + ISBN.ToString().PadLeft(3, '0'); }
+            get 
+            { 
+                return Regex.Replace(Title, "\\W", "").Substring(0, 3) 
+                    + "-" + Regex.Replace(Author, "\\W", "").Substring(0, 3) 
+                    + "-" + Pages.ToString().PadLeft(3, '0') 
+                    + "-" + ISBN.ToString().PadLeft(3, '0');
+            }
         }
     }
 
