@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CC82599C-3068-41A1-9E48-4655F0512516}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../NextGen/NextGen/Program.cs">
+    <Files>
+      <File FileName="../NextGen/NextGen/Program.cs" Line="42" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NextGen" expanded="True" selected="True">
+            <Node name="NextGen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NextGen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

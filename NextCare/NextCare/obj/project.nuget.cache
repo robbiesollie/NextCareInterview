@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siD98F8/JyaMfYSJdJa7sq1WmqrT/WEP2Q+I6L16O0eollvS/mqIaq3qIHDunFtJekZb6smdQ04RcsFkKXqZbw==",
+  "dgSpecHash": "+HR1zD0triE0881MB+DgFX7eozU/A+m4yKsNgjgte+4XjaraVONJUuciMdQbnopxjy1iQhwEiHDNpx4XQ9bK6A==",
   "success": true,
-  "projectFilePath": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextGen.csproj",
+  "projectFilePath": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextCare.csproj",
   "expectedPackageFiles": [
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

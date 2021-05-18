@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextGen.csproj",
-      "projectName": "NextGen",
-      "projectPath": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextGen.csproj",
+      "projectUniqueName": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextCare.csproj",
+      "projectName": "NextCare",
+      "projectPath": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/NextCare.csproj",
       "packagesPath": "/Users/The_Gate/.nuget/packages/",
       "outputPath": "/Users/The_Gate/Desktop/NextGenInterview/NextGen/NextGen/obj/",
       "projectStyle": "PackageReference",
